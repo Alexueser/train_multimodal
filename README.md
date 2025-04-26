@@ -1,1 +1,3 @@
-# 记录大模型应用过程遇到的相关问题及解决方法
+# 本项目基于开源仓库 [wyf3/llm_related](https://github.com/wyf3/llm_related) 进行修改与扩展。
+
+感谢原作者 wyf3 的优秀工作！
